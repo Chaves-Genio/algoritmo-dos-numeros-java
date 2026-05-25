@@ -1,0 +1,135 @@
+
+```text id="uw0gw4"
+
+ALGORITMOS DOS NÚMEROS
+EXEMPLOS DE ENTRADAS E SAÍDAS
+========================================
+
+
+1. MÁXIMO DIVISOR COMUM
+
+Entrada:
+
+Primeiro número: 24
+Segundo número: 36
+
+Saída:
+
+MDC = 12
+
+----------------------------------------
+2. ALGORITMO DE EUCLIDES
+
+Entrada:
+
+Primeiro número: 48
+Segundo número: 18
+
+Saída:
+
+MDC = 6
+
+----------------------------------------
+3. TESTE DE PRIMALIDADE
+
+Entrada:
+
+Digite um número: 13
+
+Saída:
+
+O número é primo.
+
+----------------------------------------
+
+Entrada:
+
+Digite um número: 12
+
+Saída:
+
+O número não é primo.
+
+----------------------------------------
+4. FACTORIZAÇÃO DE INTEIROS
+
+Entrada:
+
+Digite um número: 60
+
+Saída:
+
+Factores primos: 2 2 3 5
+
+----------------------------------------
+5. CONGRUÊNCIA MODULAR
+
+Entrada:
+
+a = 17
+b = 5
+n = 12
+
+Saída:
+
+17 é congruente a 5 módulo 12
+
+----------------------------------------
+6. PEQUENO TEOREMA DE FERMAT
+
+Entrada:
+
+Base = 2
+Expoente = 6
+Módulo = 7
+
+Saída:
+
+Resultado = 1
+
+----------------------------------------
+7. TEOREMA CHINÊS DO RESTO
+
+Sistema:
+
+x ≡ 2 (mod 3)
+x ≡ 3 (mod 5)
+
+Saída:
+
+x = 8
+
+========================================
+
+----------------------------------------
+8. TOTIENTE DE EULER
+----------------------------------------
+
+Entrada:
+
+n = 9
+
+Saída:
+
+φ(9) = 6
+
+========================================
+
+----------------------------------------
+9. SISTEMA RSA
+----------------------------------------
+
+Entrada:
+
+Mensagem = 4
+
+Saída:
+
+Mensagem original: 4
+Mensagem cifrada: 16
+Mensagem decifrada: 4
+
+========================================
+FIM DOS TESTES
+
+

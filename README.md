@@ -27,8 +27,8 @@ Joaquim João Nsaku ventura
 ## 9. Sistema RSA - Exemplo didáctico de cifragem e decifragem.
 
 # Requisitos 
-- Java JDK 17 ou superior
-- - IntelliJ IDEA, NetBeans ou VS Code
+Java JDK 17 ou superior
+IntelliJ IDEA, NetBeans ou VS Code
   
 # Compilação do Projecto 
 Abrir o terminal na pasta src e executar: javac Main.java
